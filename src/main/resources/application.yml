@@ -1,0 +1,20 @@
+server:
+  port: 8998
+  context-path: /
+spring:
+  datasource:
+    username: zx
+    password: 123456
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/spidertest1
+#    type: com.alibaba.druid.pool.DruidDataSource
+    #druid连接池配置
+  jpa:
+    database: MYSQL
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      naming:
+        strategy: org.hibernate.cfg.ImprovedNamingStrategy
+
+
