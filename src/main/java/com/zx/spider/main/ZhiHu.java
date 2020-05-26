@@ -31,7 +31,7 @@ public class ZhiHu {
     private QuestionDao questionDao;
 
     private static final String USERNAME = "17826824998";
-    private static final String PASSWORD = "ZhengXing36";
+    private static final String PASSWORD = "xx";
 
     private static final String INDEX_URL = "https://www.zhihu.com";
     private static final String IMG_URL = "https://www.zhihu.com/captcha.gif";
