@@ -24,7 +24,7 @@
 		<java.version>1.8</java.version>
 		<druid.version>1.0.28</druid.version>
 		<gecco.version>1.2.8</gecco.version>
-		<httpClient.version>4.5.3</httpClient.version>
+		<httpClient.version>4.5.13</httpClient.version>
 		<jsoup.version>1.10.2</jsoup.version>
 	</properties>
 
